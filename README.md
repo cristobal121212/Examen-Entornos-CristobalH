@@ -1,1 +1,2 @@
-.
+El archivo .gitignore se emplea para ignorar ciertos archivos y que por lo tanto, no sean visibles en nuestro repositorio. Informacion sensible, metadatos etc...
+
